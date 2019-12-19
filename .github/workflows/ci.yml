@@ -16,4 +16,4 @@ jobs:
     - name: Otro Mostrar 
       run : pwd
     - name: Ahora ir
-      run : cd /carpeta
+      run : cd carpeta
