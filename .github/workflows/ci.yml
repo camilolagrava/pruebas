@@ -13,5 +13,7 @@ jobs:
       run: ls
     - name: Mostrar
       run : cat README.md
-    - name: Ir carpeta 
+    - name: Otro Mostrar 
       run : pwd
+    - name: Ahora ir
+      run : cd /carpeta
