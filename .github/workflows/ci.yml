@@ -17,3 +17,5 @@ jobs:
       run : pwd
     - name: Ahora ir
       run : cd carpeta
+    - name : Ver Texto
+      run : cat texto.txt
