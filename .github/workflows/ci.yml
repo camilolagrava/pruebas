@@ -14,4 +14,4 @@ jobs:
     - name: Mostrar
       run : cat README.md
     - name: Ir carpeta 
-      run : cd..
+      run : cd /home
